@@ -1,0 +1,9 @@
+├── config/               # 配置文件
+│   └── fabric-connection.json  # Fabric 网络连接配置
+├── controllers/          # 控制器（处理 HTTP 请求）
+├── services/             # 业务逻辑（区块链、IPFS 交互）
+├── models/               # 数据库模型
+├── routes/               # Express 路由
+├── utils/                # 工具类（加密、错误处理）
+├── app.js                # 主入口文件
+└── package.json
